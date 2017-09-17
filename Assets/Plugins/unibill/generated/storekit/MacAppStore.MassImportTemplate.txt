@@ -1,0 +1,2 @@
+SKU	Product ID	Reference Name	Type	Cleared For Sale	Wholesale Price Tier	Displayed Name	Description	Screenshot Path
+	remove_ads	Remove Ads	Non-Consumable	yes		Remove Ads	Remove Advitisements	

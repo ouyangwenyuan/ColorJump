@@ -1,0 +1,47 @@
+
+promote_lanscape.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dialog_background
+  rotate: false
+  xy: 1, 373
+  size: 613, 583
+  orig: 613, 583
+  offset: 0, 0
+  index: -1
+featureimg_background
+  rotate: false
+  xy: 1, 44
+  size: 539, 327
+  orig: 539, 327
+  offset: 0, 0
+  index: -1
+texture
+  rotate: false
+  xy: 1, 1
+  size: 266, 41
+  orig: 266, 41
+  offset: 0, 0
+  index: -1
+play_button
+  rotate: false
+  xy: 542, 303
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+quit_button
+  rotate: false
+  xy: 542, 233
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+install_button
+  rotate: false
+  xy: 542, 168
+  size: 200, 63
+  orig: 200, 63
+  offset: 0, 0
+  index: -1
